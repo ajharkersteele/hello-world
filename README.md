@@ -1,3 +1,3 @@
 # hello-world
 Practice 
-My name is Amanda.  I live in WV.I study energy eocnomics and regional economic issues. 
+My name is Amanda.  I live in WV.I study energy economics and regional economic issues. I have a cat. 
